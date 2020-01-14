@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/contesthelper
+  datasource:
+    driver-class-name: org.h2.Driver
+
